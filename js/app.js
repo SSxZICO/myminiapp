@@ -18,7 +18,7 @@ if (tg) {
 }
 
 // ── Константы ──────────────────────────────────────────────────────────────
-const BOT_URL     = 'https://t.me/NotcoinSafeBot';
+const BOT_URL     = 'https://t.me/TestZicoBot';
 const MINIAPP_URL = 'https://ssxzico.github.io/myminiapp/';
 const MANAGER     = 'NotcoinxAdmin';
 const COMMISSION  = 0.01; // 1%
